@@ -27,3 +27,94 @@ data types
 click the column header and press ctrl + shfit + down arrow to select all column data
 
 press ctrl/cmd + 1  to open the cell format dialog
+
+数据 -> 有效性
+
+
+ctrl + t 将数据转化为表
+
+
+
+
+formulas and functions
+
+
+formulas are calculations in a cell that start with an equals(=) signe.
+
+functions are preset calculations used in formulas that require inputs(arguments) between parenthesis to return an output
+
+shift + f3 to insert function
+
+formulas types
+
++ single-cell formulas =sum()
++ dynamic array formulas =unique()
++ volatile(易失性) functions =today(), =now()
+
+absolute vs relative referencing
+
+$p$4
+
+subtotal()
+aggregate(sum)
+
+count only works on number columns
+counta(count all)
+countblank
+
+logical functions : 
+
+IF
+AND
+OR
+Nested IF
+IFERROR
+IFNA
+CONDITIONAL IFS
+
+SUMIF
+COUNTIF
+SUMIFS
+COUNTIFS
+
+vlookup - extract and approx match
+
+What's vlookup in excel? 
+
+vlookup stands for vertical lookup,it's a built-in excel function that searches for a value in the first column of a table and returns a value in the same row from another column.
+
+Purpose of vlookup
+
+use VLOOKUP when you want to search a specific value in a column and retrieve related information from adjacent columns, it's ideal for tasks like looking up employees details, product prices, grades, etc
+
+
+XLOOKUP
+
+INDEX & MATCH
+
+Essential Date & Time functions
+
+ctrl + ; 插入当前日期
+ctrl + shift +  ; 插入当前时间
+
+TEXT(data, 'mmm')
+
+text functions
+
++ PROPER
++ UPPER
++ LOWER
++ TRIM
++ LEFT
++ RIGHT
++ MID
++ CONCAT
+
+> & to join formulas
+
+
+
+
+
+
+
