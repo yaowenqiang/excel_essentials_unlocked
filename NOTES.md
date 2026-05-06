@@ -113,6 +113,16 @@ text functions
 > & to join formulas
 
 
+SORT 
+SORTBY
+FILTER
+
+custom list
+named ranges
+
+选中对应的数据然后公式 -> 指定
+
+f3 选择
 
 
 
