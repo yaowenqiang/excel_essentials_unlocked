@@ -124,7 +124,16 @@ named ranges
 
 f3 选择
 
+formatting
 
+ctrl + shift + -> to select all headers
+ctrl + b make font bold
+
+合并居中
+
+center across selection(跨列居中)
+
+视图 -> 网格线  
 
 
 
